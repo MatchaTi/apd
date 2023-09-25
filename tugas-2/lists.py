@@ -5,7 +5,6 @@ def getUserInput():
 
     while len(dataNumerik) < 20:
         try:
-            print(len(dataNumerik), "length panjang")
             userInput = int(input("Masukkan bilangan bulat\t: "))
 
             if type(userInput) != int:
@@ -13,8 +12,10 @@ def getUserInput():
 
             if userInput % 2 == 0:
                 genap.append(userInput)
+                genap.sort()
             else:
                 ganjil.append(userInput)
+                ganjil.sort()
 
             dataNumerik.append(userInput)
 
@@ -27,5 +28,7 @@ def getUserInput():
 data = getUserInput()
 
 print(data["dataInput"])
+print(f"Jumlah bilangan ganjil adalah\t: {len(data['ganjil'])}")
 print(data["ganjil"])
+print(f"Jumlah bilangan genap adalah\t: {len(data['genap'])}")
 print(data["genap"])
