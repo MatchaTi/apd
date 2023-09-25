@@ -5,7 +5,9 @@ def getUserInput():
 
     while len(dataNumerik) < 20:
         try:
-            userInput = int(input("Masukkan bilangan bulat\t: "))
+            userInput = int(
+                input(f"Masukkan bilangan bulat ke-{len(dataNumerik )+1}\t: ")
+            )
 
             if type(userInput) != int:
                 raise Exception("Input harus berupa bilangan bulat!")
@@ -18,6 +20,7 @@ def getUserInput():
                 ganjil.sort()
 
             dataNumerik.append(userInput)
+            dataNumerik.sort()
 
         except Exception:
             print("Input harus berupa bilangan bulat!")
