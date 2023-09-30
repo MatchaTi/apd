@@ -10,14 +10,14 @@ def getUserInput():
             if type(userInput) != int:
                 raise Exception("Input harus berupa bilangan bulat!")
 
+            dataNumerik.append(userInput)
+            dataNumerik.sort()
+
             genap = [x for x in dataNumerik if x % 2 == 0]
             genap.sort()
 
             ganjil = [x for x in dataNumerik if x % 2 == 1]
             ganjil.sort()
-
-            dataNumerik.append(userInput)
-            dataNumerik.sort()
 
         except Exception:
             print("Input harus berupa bilangan bulat!")
