@@ -7,7 +7,8 @@ os.system("cls")
 print("Nama\t: Adi Muhammad Syifai")
 print("NIM\t: 2309106065")
 print("Kelas\t: Informatika B23")
-print("Post Test 3 Praktikum\n")
+print("Post Test 3 Praktikum")
+print("Program Menentukan Tahun Kabisat\n")
 
 
 def checkLeapYear():
