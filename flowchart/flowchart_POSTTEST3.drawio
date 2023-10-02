@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-10-01T22:24:05.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uQtoIX2uI-k67tQZNGnA" version="21.8.1" type="github">
+  <diagram name="Page-1" id="x20RFKxtPtDjbqUovUor">
+    <mxGraphModel dx="926" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YspYHQnijfxOia4Xg949-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YspYHQnijfxOia4Xg949-1" target="YspYHQnijfxOia4Xg949-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YspYHQnijfxOia4Xg949-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YspYHQnijfxOia4Xg949-3" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YspYHQnijfxOia4Xg949-12" value="Input tahun" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-860" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
