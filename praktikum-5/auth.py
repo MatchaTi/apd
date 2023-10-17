@@ -19,12 +19,10 @@ def login(users):
 
         if len(user_exist) == 0:
             os.system("cls")
-            raise Exception(
-                f"Data {username} tidak ditemukan! Silahakan registrasi terlebih dahulu!"
-            )
+            raise Exception(f"Data {username} not found ! Please register first!")
 
         os.system("cls")
-        print("Berhasil login!")
+        print("Login successful!")
 
         return user_exist[0]
     except Exception as e:
@@ -41,7 +39,7 @@ def register(users):
     user = {"username": username, "password": password, "role": "user"}
 
     users.append(user)
-    return "Akun berhasil diregistrasi"
+    return "Register successful!"
 
 
 def show_user(list_users):

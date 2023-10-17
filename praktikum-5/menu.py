@@ -8,7 +8,7 @@ def main_menu():
     print("\nMenu:")
     print("1. Register")
     print("2. Login")
-    print("3. Keluar")
+    print("3. Quit")
 
 
 def display_menu(role):

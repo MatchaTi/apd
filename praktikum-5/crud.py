@@ -69,6 +69,7 @@ def delete_database(user, databases):
             user_databases = [
                 db for db in databases if db["username"] == user["username"]
             ]
+
             if 1 <= index_db <= len(user_databases):
                 deleted_db = user_databases.pop(index_db - 1)
                 print(f"Database '{deleted_db['name_database']}' has been deleted.")
