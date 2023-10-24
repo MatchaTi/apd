@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T07:43:45.289Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="j7nifXdp89SjfMBCqA9u" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T07:44:14.458Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="n_5nU3OpzOpcWE6kCmoD" version="22.0.6" type="github">
   <diagram name="Page-1" id="qo0XNnkOASs_RlDREXJG">
-    <mxGraphModel dx="3050" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,8 +165,8 @@
         <mxCell id="Sn1ewvtp5F0sCQ9_cXQ1-45" value="role user == admin" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b8c0ff;" vertex="1" parent="1">
           <mxGeometry x="260" y="1020" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sn1ewvtp5F0sCQ9_cXQ1-47" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menu:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[1] C&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[2] R&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[3] U&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[4] D&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1150" width="160" height="80" as="geometry" />
+        <mxCell id="Sn1ewvtp5F0sCQ9_cXQ1-47" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menu:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[1] C&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[2] R&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[3] U&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[4] D&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[5] Keluar&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1150" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Sn1ewvtp5F0sCQ9_cXQ1-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sn1ewvtp5F0sCQ9_cXQ1-50" target="Sn1ewvtp5F0sCQ9_cXQ1-53">
           <mxGeometry relative="1" as="geometry" />
