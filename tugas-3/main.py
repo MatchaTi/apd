@@ -1,3 +1,7 @@
+# Nama : Adi Muhammad Syifai
+# NIM : 2309106065
+# Kelas : Informatika B23
+
 # Data kuliner dalam bentuk list
 kuliner = [
     {"nama": "Mie Ayam", "harga": 25000},
