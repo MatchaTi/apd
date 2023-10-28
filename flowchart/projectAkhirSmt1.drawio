@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T01:22:57.663Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SY-q9LMmmBLBGApHhHfI" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T01:47:50.029Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="p9ZiVnTmLJrzUxd4Cvma" version="22.0.8" type="github">
   <diagram name="Page-1" id="qo0XNnkOASs_RlDREXJG">
-    <mxGraphModel dx="5070" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3439" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,12 +372,12 @@
           <mxGeometry x="-1560" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-2" value="&lt;b&gt;END&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffd6ff;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1630" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-3" target="JB4L3gnJ47hlsRmhNT5n-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JB4L3gnJ47hlsRmhNT5n-3" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;Selamat Datang di Aplikasi Manajemen Proyek" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
+        <mxCell id="JB4L3gnJ47hlsRmhNT5n-3" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;Selamat Datang di Aplikasi Manajemen Project" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-4" target="JB4L3gnJ47hlsRmhNT5n-7">
@@ -466,6 +466,9 @@
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-28" value="&lt;b&gt;USERS&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#536b78;" vertex="1" parent="1">
           <mxGeometry x="-1670" y="810" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="JB4L3gnJ47hlsRmhNT5n-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-29" target="JB4L3gnJ47hlsRmhNT5n-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-29" value="&lt;b&gt;PROSES&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#637081;" vertex="1" parent="1">
           <mxGeometry x="-1805" y="660" width="100" height="100" as="geometry" />
         </mxCell>
@@ -474,13 +477,6 @@
         </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-30" value="&lt;b&gt;PROSES&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#637081;" vertex="1" parent="1">
           <mxGeometry x="-1550" y="660" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JB4L3gnJ47hlsRmhNT5n-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-29" target="JB4L3gnJ47hlsRmhNT5n-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1750" y="855" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-39" target="JB4L3gnJ47hlsRmhNT5n-3">
           <mxGeometry relative="1" as="geometry">
@@ -495,6 +491,18 @@
         </mxCell>
         <mxCell id="JB4L3gnJ47hlsRmhNT5n-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-30" target="JB4L3gnJ47hlsRmhNT5n-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JB4L3gnJ47hlsRmhNT5n-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-29" target="JB4L3gnJ47hlsRmhNT5n-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JB4L3gnJ47hlsRmhNT5n-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JB4L3gnJ47hlsRmhNT5n-44" target="JB4L3gnJ47hlsRmhNT5n-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JB4L3gnJ47hlsRmhNT5n-44" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;Berhasil Login!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
+          <mxGeometry x="-1815" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JB4L3gnJ47hlsRmhNT5n-46" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menu:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[1] Tampilkan Project&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[2] Buat Project&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[3] Hapus Project&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
+          <mxGeometry x="-1835" y="1050" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
