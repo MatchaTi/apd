@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T05:47:39.031Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6os9-y5pfOSzhFaReA9y" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T05:50:58.380Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SkxHV7CmQ91mCkcRznkY" version="22.0.8" type="github">
   <diagram name="Page-1" id="qo0XNnkOASs_RlDREXJG">
-    <mxGraphModel dx="3368" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,14 +393,11 @@
         </mxCell>
         <mxCell id="w7ZADpuzzI7rwIIFdgVD-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7ZADpuzzI7rwIIFdgVD-27">
           <mxGeometry x="-0.2517" y="1" relative="1" as="geometry">
-            <mxPoint x="-4" y="-2" as="offset" />
+            <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w7ZADpuzzI7rwIIFdgVD-15" value="username == admin and password == admin" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b8c0ff;" vertex="1" parent="1">
           <mxGeometry x="48.33" y="910" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="w7ZADpuzzI7rwIIFdgVD-22" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;Akun tidak ditemukan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w7ZADpuzzI7rwIIFdgVD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7ZADpuzzI7rwIIFdgVD-30" target="w7ZADpuzzI7rwIIFdgVD-28">
           <mxGeometry relative="1" as="geometry" />
@@ -413,18 +410,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w7ZADpuzzI7rwIIFdgVD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7ZADpuzzI7rwIIFdgVD-26" target="Sn1ewvtp5F0sCQ9_cXQ1-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-90" y="840" />
-              <mxPoint x="-380" y="840" />
-              <mxPoint x="-380" y="180" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="w7ZADpuzzI7rwIIFdgVD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7ZADpuzzI7rwIIFdgVD-26" target="w7ZADpuzzI7rwIIFdgVD-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7ZADpuzzI7rwIIFdgVD-39" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7ZADpuzzI7rwIIFdgVD-38">
-          <mxGeometry x="-0.9576" y="-3" relative="1" as="geometry">
-            <mxPoint x="-5" y="9" as="offset" />
+        <mxCell id="w7ZADpuzzI7rwIIFdgVD-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7ZADpuzzI7rwIIFdgVD-42">
+          <mxGeometry x="-0.1698" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w7ZADpuzzI7rwIIFdgVD-26" value="username and password ada di database" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b8c0ff;" vertex="1" parent="1">
@@ -444,6 +435,17 @@
         </mxCell>
         <mxCell id="w7ZADpuzzI7rwIIFdgVD-33" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menu User:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[1] Tampilkan User&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[2] Verifikasi User&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[3] Hapus User&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[4] Tampilkan riwayat user&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w7ZADpuzzI7rwIIFdgVD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7ZADpuzzI7rwIIFdgVD-22" target="Sn1ewvtp5F0sCQ9_cXQ1-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="820" />
+              <mxPoint x="-410" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7ZADpuzzI7rwIIFdgVD-22" value="&lt;b&gt;OUTPUT&lt;/b&gt;&lt;br&gt;Akun tidak ditemukan! Silahkan Registrasi terlebih dahulu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e7c6ff;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
