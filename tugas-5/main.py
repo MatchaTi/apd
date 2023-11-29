@@ -8,7 +8,7 @@ with open("data.csv") as csv_file:
         person.append(row)
 
 
-with open("data.csv", mode="w") as csv_file:
+with open("result.csv", mode="w") as csv_file:
     fieldnames = ["Nama_Karyawan", "Jam_Kerja", "Gaji_Pokok", "Gaji_Total"]
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
